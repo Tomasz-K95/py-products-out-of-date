@@ -23,8 +23,8 @@ def template_product() -> list:
          "price": 160
          },
         {"name": "eel",
-        "expiration_date": datetime.date(2022, 2, 26),
-        "price": 200
+         "expiration_date": datetime.date(2022, 2, 26),
+         "price": 200
          }
 
     ]
